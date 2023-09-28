@@ -18,24 +18,31 @@ To play the Pygame-based Blackjack game, follow these steps:
 
    - Clone the repository:
      ```
-     git clone https://github.com/yourusername/pygame-blackjack.git
+     git clone https://github.com/svgrekk/games.git
      ```
 
-2. Install the required dependencies. Ensure that you have Python 3.x and Pygame installed on your system. If not, you can download Python from the official Python website (https://www.python.org/downloads/) and install Pygame using pip:
+2. Navigate to the Blackjack directory:
+
+   - Change directory to the Blackjack game:
+     ```
+     cd games/blackjack
+     ```
+
+3. Install the required dependencies. Ensure that you have Python 3.x and Pygame installed on your system. If not, you can download Python from the official Python website (https://www.python.org/downloads/) and install Pygame using pip:
 
    - Install dependencies:
      ```
      pip install -r requirements.txt
      ```
 
-3. Run the game:
+4. Run the game:
 
    - Start the game:
      ```
      python blackjack.py
      ```
 
-4. Enjoy the game!
+5. Enjoy the game!
 
 
 ## How to Play
