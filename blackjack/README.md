@@ -70,3 +70,8 @@ To play the Pygame-based Blackjack game, follow these steps:
 
 Now you're ready to enjoy the game of Blackjack! Good luck!
 
+## Author
+
+- Author: Sergey Grechikhin
+- GitHub: [Sergey Grechikhin's GitHub Profile](https://github.com/svgrekk)
+

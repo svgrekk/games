@@ -47,3 +47,8 @@ Enjoy the game!
 - Simple and fun Snake game.
 - Scorekeeping to track your progress.
 
+## Author
+
+- Author: Sergey Grechikhin
+- GitHub: [Sergey Grechikhin's GitHub Profile](https://github.com/svgrekk)
+
