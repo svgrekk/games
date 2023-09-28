@@ -10,27 +10,29 @@ This Python script is a graphical implementation of the classic card game, Black
 - Experience the excitement of the popular card game with visually appealing card graphics.
 - Interact with the game through simple button controls for hitting and standing.
 
+## Getting Started
 To play the Pygame-based Blackjack game, follow these steps:
 
-1. Clone this repository to your local machine:
+#1. Clone this repository to your local machine:
 
    ```shell
    git clone https://github.com/yourusername/pygame-blackjack.git
    ```
 
-2. Install the required dependencies. Ensure that you have Python 3.x and Pygame installed on your system. If not, you can download Python from the official Python website (https://www.python.org/downloads/) and install Pygame using pip:
+#2. Install the required dependencies. Ensure that you have Python 3.x and Pygame installed on your system. If not, you can download Python from the official Python website (https://www.python.org/downloads/) and install Pygame using pip:
 
    ```shell
    pip install -r requirements.txt
    ```
 
-3. Run the game:
+#3. Run the game:
 
    ```shell
    python blackjack.py
    ```
 
-4. Enjoy the game!
+#4. Enjoy the game!
+
 ## How to Play
 
 1. **Launch the Game**: Start the game to begin playing.
